@@ -1,0 +1,6 @@
+======================================================================================================
+SBD            Ho ten                   Que quan                 Nam sinh       Gioi tinh      Diem UT
+1              an                       bn                       202            1              2
+======================================== Danh sach nguyen vong =======================================
+Ma NV     Ma nganh       Ma truong      Ten nganh                Khoi XT        Diem thi
+1              sad            ad             fcd                      d0             34
